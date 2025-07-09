@@ -1,2 +1,3 @@
 "this is a new file" 
 This is being edited in remote repo
+New line is added
